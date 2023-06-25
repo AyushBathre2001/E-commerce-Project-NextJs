@@ -16,6 +16,25 @@ Welcome to my amazing e-commerce website project built with Next.js, Node.js, Ex
 
 ## Screenshots
 
+![Screenshot 2023-06-25 191813](https://github.com/AyushBathre2001/E-commerce-Project-NextJs/assets/97656404/77769821-cb57-4c3f-9003-9ce64fe62bb8)
+
+![Screenshot 2023-06-25 191934](https://github.com/AyushBathre2001/E-commerce-Project-NextJs/assets/97656404/c9ebff03-b8a6-4059-a520-7cae80a2314e)
+
+![Screenshot 2023-06-25 191856](https://github.com/AyushBathre2001/E-commerce-Project-NextJs/assets/97656404/df9ce536-f65f-4d6b-bbb5-d1828a2a9d7d)
+
+![Screenshot 2023-06-25 192003](https://github.com/AyushBathre2001/E-commerce-Project-NextJs/assets/97656404/89334c98-c22a-4e7d-b559-f0de9554543e)
+
+![Screenshot 2023-06-25 192023](https://github.com/AyushBathre2001/E-commerce-Project-NextJs/assets/97656404/bf8f1d20-a41e-4911-b6e8-e52655b9fb89)
+
+![Screenshot 2023-06-25 192053](https://github.com/AyushBathre2001/E-commerce-Project-NextJs/assets/97656404/8d3d07e4-a45d-470a-9917-26285f9e3e44)
+
+![Screenshot 2023-06-25 192213](https://github.com/AyushBathre2001/E-commerce-Project-NextJs/assets/97656404/66cd6d02-65f0-4616-915b-c8781979a996)
+
+![Screenshot 2023-06-25 192257](https://github.com/AyushBathre2001/E-commerce-Project-NextJs/assets/97656404/d71c1164-01b9-4a97-bda2-2fa989e1b80b)
+
+![Screenshot 2023-06-25 192351](https://github.com/AyushBathre2001/E-commerce-Project-NextJs/assets/97656404/92611e51-740b-4010-93c2-cae3c1e4ac2c)
+
+
 
 ## Features
 
